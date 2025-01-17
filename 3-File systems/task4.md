@@ -18,5 +18,5 @@
    - RAID 10: Комбинация RAID 1 и RAID 0 для высокой скорости и надежности (минимум 4 диска).
 2. Аналогично прошлой задаче:  
    ![image](https://github.com/user-attachments/assets/016f4083-a06e-48b2-8754-14677b79db57)  
-   ![image](https://github.com/user-attachments/assets/8de5ce56-8165-4727-9a67-6fa5509e3776)
+   ![image](https://github.com/user-attachments/assets/8de5ce56-8165-4727-9a67-6fa5509e3776)  
    я сломал себе виртуалку пока делал это, она теперь не запускается
