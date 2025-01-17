@@ -13,12 +13,12 @@
 
 # Решение:
 1. ![image](https://github.com/user-attachments/assets/c4fd7695-d46a-41b1-81f3-9011b4065bd1)  
-### Что хранится в fstab?  
-- UUID или имя устройства.  
-- Точка монтирования.  
-- Тип файловой системы.  
-- Опции монтирования.  
-- Поля для проверки файловой системы.  
+    ### Что хранится в fstab?  
+    - UUID или имя устройства.  
+    - Точка монтирования.  
+    - Тип файловой системы.  
+    - Опции монтирования.  
+    - Поля для проверки файловой системы.  
 3. ![image](https://github.com/user-attachments/assets/c7177b7d-95b0-4815-9fe5-4aba0ffff6ae)  
 4. ![image](https://github.com/user-attachments/assets/6e4fdf0f-2814-4f64-93fd-bcb401903045)    
 5. ![image](https://github.com/user-attachments/assets/33a8426f-20e9-4249-8c9d-ab152d8edd93)  
